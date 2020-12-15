@@ -1,0 +1,9 @@
+.elementor-10 .elementor-element.elementor-element-34ff900:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-34ff900 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://mosestyle.github.io/mosestyle/wp-content/uploads/2020/12/test1-2.gif");background-repeat: no-repeat;background-size: cover;}
+.elementor-10 .elementor-element.elementor-element-34ff900 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-10 .elementor-element.elementor-element-34ff900 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-10 .elementor-element.elementor-element-1138ba5 {text-align: center;}
+.elementor-10 .elementor-element.elementor-element-1138ba5 .elementor-heading-title {color: #fff;font-family: "Poppins",Sans-serif;font-weight: 600;text-shadow: 0px 0px 19px #000;}
+.elementor-10 .elementor-element.elementor-element-3b881a7 .ekit-countdown-inner {margin-bottom: 0px;}
+.elementor-10 .elementor-element.elementor-element-5751c28 {text-align: left;}
+@media (max-width:1024px) {.elementor-10 .elementor-element.elementor-element-3b881a7 .ekit-countdown-inner {margin-bottom: 30px;}}
+@media (max-width:767px) {.elementor-10 .elementor-element.elementor-element-3b881a7 .ekit-countdown-inner {margin-bottom: 15px;}}
